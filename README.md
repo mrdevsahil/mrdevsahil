@@ -166,7 +166,7 @@ $ echo "When I'm not coding, I'm thinking about coding."
 ╚═════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://leetcard.jacoblin.cool/mrdevsahil?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/SahilSwargiary?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
 
 <br/><br/>
 
